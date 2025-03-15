@@ -16,7 +16,7 @@ This project analyzes bank loan data using SQL for data extraction and transform
 - SQL: Data extraction, transformation, and KPI calculations
 - Tableau: Interactive dashboard for data visualization
 
-📂 Dataset [https://drive.google.com/file/d/1LH3Qs-mAU63fXeqotUYbBrY2_tbsdmOt/view?usp=drive_link](url)
+📂 Dataset 
 
 The dataset includes:
 - Loan ID
