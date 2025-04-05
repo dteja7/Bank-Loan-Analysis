@@ -39,7 +39,7 @@ The dataset includes:
    - Interactive visualizations for key insights
    - Filters for dynamic data exploration
   
- Results
+ ## Results
 
 - Insights into factors affecting loan approvals
 - Identification of high-risk customers
