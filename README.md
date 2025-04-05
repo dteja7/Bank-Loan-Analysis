@@ -1,22 +1,22 @@
-📌 Overview
+## 📌 Overview
 
 This project analyzes bank loan data using SQL for data extraction and transformation, and Tableau for data visualization. The goal is to identify key trends, insights, and patterns in loan approval, defaults, and customer demographics.
 
 ![image](https://github.com/user-attachments/assets/8dead5c3-522f-4b88-b912-3c22936a4e40)
 
-📊 Key Insights
+## 📊 Key Insights
 
 - Loan approval and rejection rates
 - Customer demographics and loan preferences
 - Loan default trends
 - Relationship between loan amount, income, and loan approval
 
-🔧 Tech Stack
+## 🔧 Tech Stack
 
 - SQL: Data extraction, transformation, and KPI calculations
 - Tableau: Interactive dashboard for data visualization
 
-📂 Dataset 
+## 📂 Dataset 
 
 The dataset includes:
 - Loan ID
@@ -25,7 +25,7 @@ The dataset includes:
 - Grade
 - Loan status
 
-🛠️ Steps Performed
+## 🛠️ Steps Performed
 
 1. Data Cleaning & Preparation:
    - Removed duplicates and null values
